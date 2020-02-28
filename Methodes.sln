@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methodes", "Methodes\Methodes.csproj", "{F7551F57-9CDE-40AD-A774-09394E2AD30D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staticand Instance", "Staticand Instance\Staticand Instance.csproj", "{F2F756DC-19E5-4836-930E-7BFCD3C29731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7551F57-9CDE-40AD-A774-09394E2AD30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7551F57-9CDE-40AD-A774-09394E2AD30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7551F57-9CDE-40AD-A774-09394E2AD30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7551F57-9CDE-40AD-A774-09394E2AD30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F756DC-19E5-4836-930E-7BFCD3C29731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F756DC-19E5-4836-930E-7BFCD3C29731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F756DC-19E5-4836-930E-7BFCD3C29731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F756DC-19E5-4836-930E-7BFCD3C29731}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EEB2375-CEB0-46F3-B145-7E76F0F028A9}
+	EndGlobalSection
+EndGlobal
